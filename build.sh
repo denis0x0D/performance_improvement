@@ -1,4 +1,4 @@
-rm -f bin/*
+mkdir -p bin/
 clang -o bin/foo.o asm/foo.s -c
 clang -o bin/foo_1.o asm/foo_1.s -c
 clang -o bin/foo_2.o asm/foo_2.s -c
