@@ -34,9 +34,7 @@ How to build:
 `
 $apt-get install libbenchmark-dev
 `
-`
-$apt-get install clang
-`
+
 * For Ubuntu:
 `
 $./build
