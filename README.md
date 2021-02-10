@@ -30,6 +30,7 @@ How to build:
 =============
 
 Required Google benchmark tool, clang.
+-------------------------------------
 
 For Ubuntu:
 
