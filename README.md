@@ -29,17 +29,10 @@ Benchmarks:
 How to build:
 =============
 
-Required Google benchmark tool, clang.
--------------------------------------
-
+* Required Google benchmark tool, clang.
 For Ubuntu:
-
 $apt-get install libbenchmark-dev
-
 $apt-get install clang
-
 $./build
-
-How to run:
-
+* How to run:
 $./bin/main
