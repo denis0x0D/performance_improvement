@@ -3,7 +3,7 @@ List of optimizations:
 
 * BM_FOO_Default - Default.
 * BM_Foo_1 - Eliminate call for bar function since it returns input parameter in our case.
-* BM_Foo_2 - Use 'and' to check if value eve or odd.
+* BM_Foo_2 - Use 'and' to check if value even or odd.
 * BM_Foo_3 - Remove emitted data for unwind tables.
 * BM_Foo_4 - Eliminate registers spilling on the stack. Eliminate stack memory allocation. Eliminate frame pointer usage.
 * BM_Foo_5 - Improve register usage by eliminating temporal moving. Use 'inc' for loop counter instead of 'add'.
